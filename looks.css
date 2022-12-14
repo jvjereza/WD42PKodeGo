@@ -1,0 +1,9 @@
+.join {
+  background-color: blue;
+  color: azure;
+  justify-content: center;
+}
+.join:hover {
+  opacity: 0.5;
+  background-color: aqua;
+}
